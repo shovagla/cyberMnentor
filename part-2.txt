@@ -1,1 +1,10 @@
-therer arer
+                                    subdomain hunting 
+                                    __________________
+theHarvester //best tools for sublist
+sublist3r -d grammarly.com -b all -o grammarly.txt  //sublist3r command 
+crt.sh      // %.example.com // this website help find sub domain
+amss  // also use
+                                Built with technology
+                                ______________________
+builtwith.com        // check website technology
+wapalyzer  //extension or website 

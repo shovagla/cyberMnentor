@@ -1,8 +1,7 @@
-iwconnffig   //for check wifi have connec or not.
+iwconfig   //for check wifi have connec or not.
 ip -n  //for check mac address and ip address.
 arp -n //for check mac address and ip address.
 ip r //that means ip route.
 service apache2 start/stop/status    //start local host service
 nestat ip   //most poweerfull command
 systemctl enable/disable ssh //for enable or disable ssh
-
