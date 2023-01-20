@@ -8,4 +8,10 @@ amss  // also use
                                 ______________________
 builtwith.com        // check website technology
 wapalyzer  //extension or website 
-                               
+                               netwok
+                               ______
+netdiscover ip/24     // for subnet scan
+after we use nmap for 3-wayhand shak //mame -sS meanig stealth scan
+nmap -v -T4/T1/T5/ -p- -A -V ip
+nikto -h ip or website
+gobuster/dirbuster/dirb/burpsuite  
